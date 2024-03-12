@@ -57,11 +57,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkCode21&langs_count=8&theme=radical)
 
-
-![Snake animation](https://github.com/DarkCode21/DarkCode21/blob/output/github-contribution-grid-snake.svg)
-
-asdasd
-
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarkCode21/DarkCode21/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DarkCode21/DarkCode21/output/github-contribution-grid-snake.svg">
