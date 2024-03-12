@@ -56,4 +56,6 @@
   ![Stats](https://github-readme-stats.vercel.app/api?username=DarkCode21&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkCode21&langs_count=8&theme=radical)
+
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
  
