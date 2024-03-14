@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/DarkCode21/DarkCode21/img/banner.png)
+![MasterHead](https://github.com/DarkCode21/DarkCode21/blob/main/img/banner.png)
 
 <div align="center">
  <a href="https://github.com/DarkCode21">
