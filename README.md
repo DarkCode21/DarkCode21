@@ -1,4 +1,10 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+![MasterHead](https://github.com/DarkCode21/DarkCode21/img/banner.png)
+
+<div align="center">
+ <a href="https://github.com/DarkCode21">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Deyvi+Villegas+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+ </a>
+</div>
 
 <div> 
  <a href="https://fb.com/deyvirolan.villegasolano.9" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
@@ -55,7 +61,7 @@
  
  ![Stats](https://github-readme-stats.vercel.app/api?username=DarkCode21&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkCode21&langs_count=8&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkCode21&langs_count=8&theme=radical)
 
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarkCode21/DarkCode21/output/github-contribution-grid-snake-dark.svg">
