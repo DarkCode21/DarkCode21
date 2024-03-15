@@ -78,3 +78,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DarkCode21/DarkCode21/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DarkCode21/DarkCode21/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+<br />
+
+![](https://github-profile-trophy.vercel.app/?username=DarkCode21&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
