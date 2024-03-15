@@ -68,7 +68,7 @@
   <div align="center">
   <br>
   
-  ![Stats 1](https://github-readme-stats.vercel.app/api?username=DarkCode21&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical)
+  ![Stats 1](https://github-readme-stats-salesp07.vercel.app/api?username=DarkCode21&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10)
     
   ![Stats 2](https://github-readme-streak-stats.herokuapp.com/?user=DarkCode21&theme=radical)
 
