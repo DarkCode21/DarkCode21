@@ -19,14 +19,12 @@
 
 💻Busco siempre contribuir al equipo de la mejor manera posible, apoyando el    crecimiento colectivo y fomentando un ambiente de aprendizaje continuo.
 
-📝 Roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
-
-📫 Contacto: **deyvi132002@gmail.com**
+📝 Roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe 😉✨
   </p>
-<br>
+
 
 <!-- Contact -->
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conéctate conmigo: 📫</h3>
 <p align="left">
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   <a href="https://fb.com/deyvirolan.villegasolano.9" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
@@ -80,6 +78,7 @@
 </picture>
 
 
-<br />
+
+<h2 align="left">Trofeos 🏆</h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=DarkCode21&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
