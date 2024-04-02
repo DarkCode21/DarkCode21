@@ -1,4 +1,4 @@
-![MasterHead](img/banner.jpg)
+![MasterHead](img/banner.webp)
 
 <!-- Title -->
 <br>
