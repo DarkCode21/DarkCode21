@@ -11,16 +11,16 @@
 <!--Intro start-->
 <h2>Sobre mi 😃</h2>
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+🎓 <strong>DESARROLLADOR FULL STACK</strong>
 
-<img src="img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
+<img src="img/EatSleepCodeRepeat.gif" alt="Coding" width="200" height="200" align="right">
 
-👨‍🎓 Soy estudiante de Ingeniería Informática con un fuerte interés en el desarrollo de software. Actualmente, busco oportunidades para adquirir experiencia en el ámbito de desarrollo de aplicaciones, programación, y soluciones tecnológicas innovadoras.
+👨‍💻 Soy desarrollador de software con experiencia en el diseño, desarrollo e implementación de soluciones tecnológicas a medida. He participado en proyectos que abarcan tanto el frontend como el backend, aportando una visión integral en cada etapa del proceso.
 
-💻Busco siempre contribuir al equipo de la mejor manera posible, apoyando el    crecimiento colectivo y fomentando un ambiente de aprendizaje continuo.
+💻 Me destaco por mi capacidad para analizar requerimientos, optimizar procesos y crear soluciones escalables, eficientes y orientadas al rendimiento. Disfruto trabajar en entornos dinámicos, colaborativos y enfocados en la mejora continua.
 
-📝 Roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe 😉✨
-  </p>
+📝 Aspiro a seguir creciendo profesionalmente, aportando valor en equipos de desarrollo, liderando iniciativas tecnológicas y participando en proyectos innovadores que generen impacto.
+</p>
 
 
 <!-- Contact -->
@@ -28,7 +28,7 @@
 <p align="left">
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   <a href="https://fb.com/deyvirolan.villegasolano.9" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
-  <a href="https://www.instagram.com/deyvi_v_/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/deyvi_v_/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UC9b7tarQuSeAN2ozPAeuY6w" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>      
   <a href = "mailto:deyvi132002@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>        
   <a href="https://www.linkedin.com/in/deyvi-villegas/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -39,28 +39,43 @@
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Dark-Js" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dark-HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dark-CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dark-React" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Dark-Angular" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"> 
-  <img align="center" alt="Dark-Bootstrap" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"> 
-  <img align="center" alt="Dark-Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">    
-  <img align="center" alt="Dark-PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">  
-  <img align="center" alt="Dark-MongoDB" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">    
-  <img align="center" alt="Dark-NodeJS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"> 
-  <img align="center" alt="Dark-MYSQL" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"> 
+
+  <!-- PRINCIPALES -->
+  <img align="center" alt="Dark-Nextjs" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Dark-Laravel" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Dark-React" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img align="center" alt="Dark-Wordpress" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg">
+
+  <!-- FRAMEWORKS Y LIBRERÍAS -->
+  <img align="center" alt="Dark-Vue" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Dark-Bootstrap" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Dark-Tailwind" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Dark-NodeJS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Dark-Express" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
+  <img align="center" alt="Dark-CodeIgniter" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-original.svg">
+
+  <!-- CMS & ECOMMERCE -->
+  <img align="center" alt="Dark-Opencart" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/OpenCart_logo.png">
+  <img align="center" alt="Dark-Prestashop" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prestashop/prestashop-original.svg">
+
+  <!-- BASES DE DATOS / CLOUD -->
+  <img align="center" alt="Dark-Firebase" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
+
+  <!-- IA / AUTOMATIZACIÓN -->
+  <img align="center" alt="Dark-OpenAI" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg">
+  <img align="center" alt="Dark-GitHubCopilot" height="55" width="55" src="https://avatars.githubusercontent.com/u/13171373?s=200&v=4">
+
+  <!-- HERRAMIENTAS -->
+  <img align="center" alt="Dark-Figma" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
   <img align="center" alt="Dark-Git" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="Dark-GitHub" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
   <img align="center" alt="Dark-VScode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Dark-VS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">
-  <img align="center" alt="Dark-C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Dark-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="Dark-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Dark-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Dark-Prolog" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg">
-  <img align="center" alt="Dark-Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+
+  <!-- EXTRA -->
+  <img align="center" alt="Dark-UXCheck" height="45" width="50" src="https://uxcheck.co/apple-touch-icon.png">
+  
 </div>
+
 
 <!-- Stats -->
 <br>
