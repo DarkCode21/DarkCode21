@@ -52,14 +52,22 @@
   <img align="center" alt="Dark-Tailwind" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Dark-NodeJS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Dark-Express" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
-  <img align="center" alt="Dark-CodeIgniter" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-original.svg">
 
-  <!-- CMS & ECOMMERCE -->
-  <img align="center" alt="Dark-Opencart" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/OpenCart_logo.png">
-  <img align="center" alt="Dark-Prestashop" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prestashop/prestashop-original.svg">
+  <!-- LENGUAJES DE PROGRAMACIÓN -->
+  <img align="center" alt="Dark-PHP" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img align="center" alt="Dark-JS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Dark-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="Dark-Cplusplus" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Dark-CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" alt="Dark-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="Dark-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="Dark-Prolog" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg">
 
-  <!-- BASES DE DATOS / CLOUD -->
-  <img align="center" alt="Dark-Firebase" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
+  <!-- BASES DE DATOS -->
+  <img align="center" alt="Dark-MySQL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Dark-SQLServer" height="55" width="55" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
+  <img align="center" alt="Dark-MongoDB" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Dark-PostgreSQL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 
   <!-- IA / AUTOMATIZACIÓN -->
   <img align="center" alt="Dark-OpenAI" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg">
@@ -71,10 +79,8 @@
   <img align="center" alt="Dark-GitHub" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
   <img align="center" alt="Dark-VScode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
 
-  <!-- EXTRA -->
-  <img align="center" alt="Dark-UXCheck" height="45" width="50" src="https://uxcheck.co/apple-touch-icon.png">
-  
 </div>
+
 
 
 <!-- Stats -->
